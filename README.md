@@ -1,6 +1,6 @@
 ## Thunderstorm API
 
-TODO: add url
+API root: [thunderstorm-api.herokuapp.com](https://thunderstorm-api.herokuapp.com)
 
 ### Local development
 This app uses [Flask](http://flask.pocoo.org/).
