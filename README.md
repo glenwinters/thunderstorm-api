@@ -14,4 +14,5 @@ This app uses [Flask](http://flask.pocoo.org/).
 All commands need to be run in the pipenv shell. You can start a shell using
 `pipenv shell` or prefix each command with `pipenv run`.
 
-`flask run` - Run the app (use `FLASK_ENV=development` for dev mode)
+`flask run` - Run the app (use `FLASK_ENV=development` for dev mode)  
+`flake8 .` - Lint all the python files using [Flake8](http://flake8.pycqa.org/en/latest/)
